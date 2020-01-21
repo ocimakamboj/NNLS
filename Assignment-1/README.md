@@ -14,5 +14,5 @@ The following data has to be classified -
 
 <figure>
 	<img src="images/a1_github.jpg" width="435px"/> 
-	<figcaption>This is my caption text.</figcaption>
+	<figcaption>{This is my caption text.}</figcaption>
 </figure>
