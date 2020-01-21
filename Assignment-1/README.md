@@ -16,19 +16,6 @@ The following data has to be classified -
 <img src="images/a1_github.jpg" width="430px"/>  <img src="images/a1_github.jpg" width="430px"/> 
 <figcaption>This is my caption text.</figcaption> 
 
-figure{
-display: inline-block;
-}
-<figure role="group">
-    <figure>
-	<img src="images/a1_github.jpg" width="430px"/> 
-	<figcaption>This is my caption text.</figcaption>
-	</figure>
-    <figure>
-	<img src="images/a1_github.jpg" width="430px"/> 
-	<figcaption>This is my caption text.</figcaption>
-	</figure>
-</figure>
 
 <div class="column">
 	<div>
