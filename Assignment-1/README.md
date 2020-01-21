@@ -12,24 +12,12 @@ Some of the results have been shown below.
 
 The following data has to be classified - 
 
-
 <img src="images/a1_github.jpg" width="430px"/>  <img src="images/a1_github.jpg" width="430px"/> 
 <figcaption>This is my caption text.</figcaption> 
 
+### Results for Online Learning
 
-<div class="column">
-	<div>
-		<img src="images/a1_github.jpg" alt="Snow" alt="">
-		<p>caption 1</p>
-	</div>
-	<div>
-		<img src="images/a1_github.jpg" alt="Snow" alt="">
-		<p>caption 2</p>
-	</div>
-</div>
+Left - D=5, Right - D=10
 
-.column div {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
+<img src="images/b02.jpg" width="430px"/>  <img src="images/b1.jpg" width="430px"/> 
+
