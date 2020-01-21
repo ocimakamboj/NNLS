@@ -2,7 +2,7 @@
 
 All the codes have been implemented in MATLAB.
 
-A basic Perceptron Algorithm was implemented as a part of this assignment. The codes correspond to Problem-5 of the file [NNLS_2019_HW1]. The full report is here [NNLS_Report]
+A basic Perceptron Algorithm was implemented as a part of this assignment. The codes correspond to Problem-5 of the file [NNLS_2019_HW1]. The full report is here [NNLS_Report].
 
 To get started, run the Test.m file.
 
