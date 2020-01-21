@@ -20,9 +20,11 @@ The following data has to be classified -
 <div class="column">
 	<div>
 		<img src="images/a1_github.jpg" alt="Snow" alt="">
+		<p>caption 1</p>
 	</div>
 	<div>
 		<img src="images/a1_github.jpg" alt="Snow" alt="">
+		<p>caption 2</p>
 	</div>
 </div>
 
