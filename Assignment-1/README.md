@@ -10,5 +10,5 @@ Some of the results have been shown below.
 
 [NNLS_2019_HW1.pdf]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-1/NNLS_2019_HW1.pdf
 
-<img src="images/a.jpg" width="435px"/> <img src="images/a.jpg" width="435px"/>
+<img src="images/a1.jpg" width="435px"/> <img src="images/a1.jpg" width="435px"/>
 
