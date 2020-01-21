@@ -10,4 +10,4 @@ Some of the results have been shown below.
 
 [NNLS_2019_HW1.pdf]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-1/NNLS_2019_HW1.pdf
 
-![trial](images/a.jpg | width = 100) ![trial](images/a.jpg)
+![trial](images/a.jpg|width=100) ![trial](images/a.jpg)
