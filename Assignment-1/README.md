@@ -6,4 +6,4 @@ A basic Perceptron Algorithm was implemented as a part of this assignment. The c
 
 Some of the results have been shown below.
 
-[NNLS_2019_HW1.pdf] : https://github.com/ocimakamboj/NNLS/blob/master/Assignment-1/NNLS_2019_HW1.pdf
+[NNLS_2019_HW1.pdf]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-1/NNLS_2019_HW1.pdf
