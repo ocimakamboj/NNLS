@@ -1,7 +1,7 @@
 # NNLS
 
 ## Table of contents
-* [blah](#blah)
+* [Assignment-1](#Assignment-1)
 * [Assignment-2](#Assignment-2)
 
 ## Assignment-1
