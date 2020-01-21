@@ -12,18 +12,17 @@ Some of the results have been shown below.
 
 The following data has to be classified - 
 
-<figure>
-	<img src="images/a1_github.jpg" width="435px"/>  <img src="images/a1_github.jpg" width="435px"/> 
-	<figcaption>This is my caption text.</figcaption>
-</figure>
+
+<img src="images/a1_github.jpg" width="430px"/>  <img src="images/a1_github.jpg" width="430px"/> 
+<figcaption>This is my caption text.</figcaption> 
 
 <figure role="group">
     <figure>
-	<img src="images/a1_github.jpg" width="435px"/> <img src="images/a1_github.jpg" width="435px"/>
+	<img src="images/a1_github.jpg" width="430px"/> 
 	<figcaption>This is my caption text.</figcaption>
 	</figure>
     <figure>
-	<img src="images/a1_github.jpg" width="435px"/> 
+	<img src="images/a1_github.jpg" width="430px"/> 
 	<figcaption>This is my caption text.</figcaption>
 	</figure>
 </figure>
