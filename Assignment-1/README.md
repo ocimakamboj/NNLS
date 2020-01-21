@@ -32,15 +32,15 @@ display: inline-block;
 
 <div class="column">
 	<div>
-		<img src="images/a1_github.jpg" alt="Snow">
+		<img src="images/a1_github.jpg" alt="Snow" alt="">
 	</div>
 	<div>
-		<img src="images/a1_github.jpg" alt="Snow">
+		<img src="images/a1_github.jpg" alt="Snow" alt="">
 	</div>
 </div>
 
-.column div{
+.column div {
   float: left;
-  width: 33.33%;
+  width: 50%;
   padding: 5px;
 }
