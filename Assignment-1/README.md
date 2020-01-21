@@ -10,5 +10,7 @@ Some of the results have been shown below.
 
 [NNLS_2019_HW1.pdf]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-1/NNLS_2019_HW1.pdf
 
-<img src="images/a1_github.jpg" width="435px"/> <img src="images/a1_github.jpg" width="435px"/>
+The following data has to be classified - 
 
+<img src="images/a1_github.jpg" width="435px"/> 
+<figcaption>This is my caption text.</figcaption>
