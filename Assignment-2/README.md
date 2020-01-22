@@ -15,26 +15,25 @@ The following data has to be classified -
 
 ### Notation followed in Plots
 
-N - size of the grid
-D - Distance between two subsequent dot and cross
+N - size of the grid\
+D - Distance between two subsequent dot and cross\
+&eta; - learning rate\
+epochs - the no. of epochs for which the MLP algorithm was run\
+H.L. - the number of hidden layers\
+H.Neurons - an array of the number of neurons in each hidden layer\
+C.A. - Classification Accuracy on the dataset
 
  
-### Results for Online Learning
+### Results with D fixed and sigmoid activation
 
-Left - D=5, Right - D=10
+<img src="images/a1.jpg" width="430px"/>  <img src="images/a2.jpg" width="430px"/> 
+<img src="images/a3.jpg" width="430px"/>  <img src="images/a7.jpg" width="430px"/> 
 
-<img src="images/b02.jpg" width="430px"/>  <img src="images/b1.jpg" width="430px"/> 
+### Results when D is varied
 
-### Results for Batch Learning
+<img src="images/c7.jpg" width="430px"/>  <img src="images/c8.jpg" width="430px"/> 
+<img src="images/c9.jpg" width="430px"/>  <img src="images/c10.jpg" width="430px"/> 
+<img src="images/c11.jpg" width="430px"/>  
 
-Left - D=0, Right - D=10
 
-<img src="images/b03.jpg" width="430px"/>  <img src="images/b7.jpg" width="430px"/> 
-
-### Results with noisy data
-
-Gaussian noise is added to the data belonging to both the classes.\
-Left - Variance=1, Right - Variance=4
-
-<img src="images/e1.jpg" width="430px"/>  <img src="images/e4.jpg" width="430px"/> 
 
