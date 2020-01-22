@@ -15,7 +15,9 @@ The following data has to be classified -
 
 ### Notation followed in Plots
 
-N - size of the grid, that is, the grid is of size N $\times$ N.
+N - size of the grid
+D - Distance between two subsequent dot and cross
+
  
 ### Results for Online Learning
 
