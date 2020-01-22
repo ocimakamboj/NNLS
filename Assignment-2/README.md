@@ -24,7 +24,7 @@ H.Neurons - an array of the number of neurons in each hidden layer\
 C.A. - Classification Accuracy on the dataset
 
  
-### Results with D fixed and sigmoid activation
+### Results with D fixed and Sigmoid Activation
 
 <img src="images/a1.jpg" width="430px"/>  <img src="images/a2.jpg" width="430px"/> 
 <img src="images/a3.jpg" width="430px"/>  <img src="images/a7.jpg" width="430px"/> 
