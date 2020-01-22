@@ -2,12 +2,12 @@
 
 All the codes have been implemented in MATLAB.
 
-Multilayer Perceptron Algorithm was implemented as a part of this assignment. The codes correspond to Problem-3 of the file [NNLS_2019_HW2]. The full report is here [NNLS_Report].
+Multilayer Perceptron Algorithm was implemented as a part of this assignment. The codes correspond to Problem-3 of the file [Questions]. The full report is here [HW-3].
 
-To get started, run the Test.m file.
+To get started, run the kmeansTest.m file for the first question, and the Test.m file for the second question.
 
-[NNLS_2019_HW2]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-2/NNLS_2019_HW2.pdf
-[NNLS_Report]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-2/HW-2.pdf
+[Questions]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-3/Questions.png
+[HW-3]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-3/HW-3.pdf
 
 The following data has to be classified - 
 
@@ -15,25 +15,24 @@ The following data has to be classified -
 
 ### Notation followed in Plots
 
-N - size of the grid\
-D - Distance between two adjacent dot and cross\
-&eta; - learning rate\
+K - No. of clusters\
+D.B - Decision Boundary\
+d - distance between the two half moons as shown in the figure above\
 epochs - the no. of epochs for which the MLP algorithm was run\
-H.L. - the number of hidden layers\
-H.Neurons - an array of the number of neurons in each hidden layer\
-C.A. - Classification Accuracy on the dataset
-
+C.A. - Classification Accuracy on the training dataset\
+T.A - Testing Accuracy, that is the accuracy achieved on test dataset\
+K-means, RLS - Recursive Least Square Implementation of Radial Basis Function Network\ 
+K-means, LMS - Least Mean Square Implementation of Radial Basis Function Network
  
-### Results with D fixed and Sigmoid Activation
-
-<img src="images/a1.jpg" width="430px"/>  <img src="images/a2.jpg" width="430px"/> 
-<img src="images/a3.jpg" width="430px"/>  <img src="images/a7.jpg" width="430px"/> 
-
 ### Results when D is varied
 
-<img src="images/c7.jpg" width="430px"/>  <img src="images/c8.jpg" width="430px"/> 
-<img src="images/c9.jpg" width="430px"/>  <img src="images/c10.jpg" width="430px"/> 
-<img src="images/c11.jpg" width="430px"/>  
+<img src="images/2.jpg" width="430px"/>  <img src="images/4.jpg" width="430px"/> 
+<img src="images/7.jpg" width="430px"/>  <img src="images/8.jpg" width="430px"/> 
+
+### Results - K-means, RLS vs. K-means, LMS
+
+<img src="images/RBF1.jpg" width="430px"/>  
+<img src="images/RBF2.jpg" width="430px"/>  
 
 
 
