@@ -16,7 +16,7 @@ The following data has to be classified -
 ### Notation followed in Plots
 
 N - size of the grid\
-D - Distance between two subsequent dot and cross\
+D - Distance between two adjacent dot and cross\
 &eta; - learning rate\
 epochs - the no. of epochs for which the MLP algorithm was run\
 H.L. - the number of hidden layers\
