@@ -2,7 +2,7 @@
 
 All the codes have been implemented in MATLAB.
 
-Multilayer Perceptron Algorithm was implemented as a part of this assignment. The codes correspond to Problem-3 of the file [Questions]. The full report is here [HW-3].
+Multilayer Perceptron Algorithm was implemented as a part of this assignment. The codes correspond to the two problems of the file [Questions]. The full report is here [HW-3].
 
 To get started, run the kmeansTest.m file for the first question, and the Test.m file for the second question.
 
