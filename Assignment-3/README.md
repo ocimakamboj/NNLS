@@ -31,8 +31,8 @@ K-means, LMS - Least Mean Square Implementation of Radial Basis Function Network
 
 ### Results - K-means, RLS vs. K-means, LMS
 
-<img src="images/RBF1.jpg" width="430px"/>  
-<img src="images/RBF2.jpg" width="430px"/>  
+<img src="images/RBF1.jpg" width="700px"/>  
+<img src="images/RBF2.jpg" width="700px"/>  
 
 
 
