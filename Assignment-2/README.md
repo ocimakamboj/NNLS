@@ -1,17 +1,17 @@
-# Assignment-1
+# Assignment-2
 
 All the codes have been implemented in MATLAB.
 
-A basic Perceptron Algorithm was implemented as a part of this assignment. The codes correspond to Problem-5 of the file [NNLS_2019_HW1]. The full report is here [NNLS_Report].
+Multilayer Perceptron Algorithm was implemented as a part of this assignment. The codes correspond to Problem-3 of the file [NNLS_2019_HW2]. The full report is here [NNLS_Report].
 
 To get started, run the Test.m file.
 
-[NNLS_2019_HW1]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-1/NNLS_2019_HW1.pdf
-[NNLS_Report]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-1/NNLS_Report.pdf
+[NNLS_2019_HW2]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-2/NNLS_2019_HW2.pdf
+[NNLS_Report]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-2/HW-2.pdf
 
 The following data has to be classified - 
 
-<img src="images/a1_github.jpg" width="430px"/>   
+<img src="images/dataset.jpg" width="430px"/>   
 
 ### Results for Online Learning
 
