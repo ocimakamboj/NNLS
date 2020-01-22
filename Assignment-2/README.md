@@ -13,6 +13,10 @@ The following data has to be classified -
 
 <img src="images/dataset.jpg" width="430px"/>   
 
+### Notation followed in Plots
+
+N - size of the grid, that is, the grid is of size N $\times$ N.
+ 
 ### Results for Online Learning
 
 Left - D=5, Right - D=10
