@@ -24,7 +24,9 @@ T.A - Testing Accuracy, that is the accuracy achieved on test dataset\
 N<sub>s</sub> - No. of exemplars in the support\
 N<sub>us</sub> - No. of examplars in the unbounded support\
 
-<img src="images/a1.jpg" width="430px"/>  
+### Results
+
+<img src="images/a1.jpg" width="800px"/>  
 
 ## Tightly-fisted Datset
 To get started, run the Test.m file.
@@ -41,8 +43,9 @@ C.A. - Classification Accuracy on the training dataset\
 T.A - Testing Accuracy, that is the accuracy achieved on test dataset\
 N<sub>s</sub> - No. of exemplars in the support\
 N<sub>us</sub> - No. of examplars in the unbounded support\
-
-<img src="images/d3.jpg" width="430px"/>  
+ 
+### Results
+<img src="images/d3.jpg" width="800px"/>  
 
 
 
