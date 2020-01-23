@@ -1,13 +1,14 @@
-# Assignment-3
+# Assignment-4
 
 All the codes have been implemented in MATLAB.
 
-Multilayer Perceptron Algorithm was implemented as a part of this assignment. The codes correspond to the two problems of the file [Questions]. The full report is here [HW-3].
+Support Vector Machine was implemented as a part of this assignment. The codes correspond to the Problem-6.25 of the file [Question]. The full report is here [HW-4].
 
-To get started, run the kmeansTest.m file for the first question, and the Test.m file for the second question.
+[Question]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-4/Question.pdf
+[HW-4]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-4/HW-4.pdf
 
-[Questions]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-3/Questions.png
-[HW-3]: https://github.com/ocimakamboj/NNLS/blob/master/Assignment-3/HW-3.pdf
+## Half-moon Datset
+To get started, run the Test_halfmoon.m file.
 
 The following data has to be classified - 
 
@@ -15,24 +16,34 @@ The following data has to be classified -
 
 ### Notation followed in Plots
 
-K - No. of clusters\
-D.B - Decision Boundary\
+N - No. of training examples\
+C - Upper limit on the lagrange multipliers, &alpha;\
 d - distance between the two half moons as shown in the figure above\
-epochs - the no. of epochs for which the MLP algorithm was run\
 C.A. - Classification Accuracy on the training dataset\
 T.A - Testing Accuracy, that is the accuracy achieved on test dataset\
-K-means, RLS - Recursive Least Square Implementation of Radial Basis Function Network\ 
-K-means, LMS - Least Mean Square Implementation of Radial Basis Function Network
- 
-### Results when D is varied
+N<sub>s</sub> - No. of exemplars in the support\
+N<sub>us</sub> - No. of examplars in the unbounded support\
 
-<img src="images/2.jpg" width="430px"/>  <img src="images/4.jpg" width="430px"/> 
-<img src="images/7.jpg" width="430px"/>  <img src="images/8.jpg" width="430px"/> 
+<img src="images/a1.jpg" width="430px"/>  
 
-### Results - K-means, RLS vs. K-means, LMS
+## Tightly-fisted Datset
+To get started, run the Test.m file.
 
-<img src="images/RBF1.jpg" width="700px"/>  
-<img src="images/RBF2.jpg" width="700px"/>  
+The following data has to be classified - 
+
+<img src="images/datatightfist.jpg" width="430px"/>   
+
+### Notation followed in Plots
+
+N - No. of training examples\
+C - Upper limit on the lagrange multipliers, &alpha;\
+C.A. - Classification Accuracy on the training dataset\
+T.A - Testing Accuracy, that is the accuracy achieved on test dataset\
+N<sub>s</sub> - No. of exemplars in the support\
+N<sub>us</sub> - No. of examplars in the unbounded support\
+
+<img src="images/d3.jpg" width="430px"/>  
+
 
 
 
